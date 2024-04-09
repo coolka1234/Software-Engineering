@@ -1,1 +1,1 @@
-Visual Paradigm project conatning user stories, vision and dictionary of terms. In porgress.
+Visual Paradigm project contaning user stories, vision and dictionary of terms. In progress.
